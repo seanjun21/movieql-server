@@ -2,11 +2,14 @@
 
 Movie API with GraphQL
 
-## Installation
-
-`yarn`
-
 ## Running the server
 
-- `yarn start`
-- Navigate to `localhost:4000`
+- Clone [the current repository](https://github.com/seanjun21/movieql-server).
+- Installation by `yarn` command.
+- Run `yarn start`, then navigate to `localhost:4000` to check the server.
+
+## Running the client
+
+- Clone [this repository](https://github.com/seanjun21/movieql-client).
+- Installation by `yarn` command.
+- Run `yarn start`, then navigate to `localhost:3000` to check the client.
