@@ -8,4 +8,5 @@ Movie API with GraphQL
 
 ## Running the server
 
-`yarn start`
+- `yarn start`
+- Navigate to `localhost:4000`
